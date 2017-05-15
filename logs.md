@@ -1,5 +1,9 @@
 file act as daily productive log what i did on dates , it should have daily commits
 
+##### Update on 2017-5-15
+  * looking into devops Pipelines
+  * looking into jenkkins plugin and triggers
+
 ##### Update on 2017-5-13
   * written acceptance test for todobackend
   * went through chaijs and mochajs
